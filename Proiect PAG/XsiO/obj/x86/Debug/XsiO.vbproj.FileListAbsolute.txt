@@ -1,0 +1,36 @@
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\bin\Debug\XsiO.exe
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\bin\Debug\XsiO.pdb
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\bin\Debug\XsiO.xml
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\obj\x86\Debug\XsiO.Form1.resources
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\obj\x86\Debug\XsiO.Resources.resources
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\obj\x86\Debug\XsiO.vbproj.GenerateResource.Cache
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\obj\x86\Debug\XsiO.exe
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\obj\x86\Debug\XsiO.xml
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\obj\x86\Debug\XsiO.pdb
+C:\Users\Duduman\AppData\Local\Temporary Projects\XsiO\obj\x86\Debug\XsiO.Form2.resources
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\obj\x86\Debug\XsiO.exe
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\obj\x86\Debug\XsiO.xml
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\obj\x86\Debug\XsiO.pdb
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\bin\Debug\XsiO.exe
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\bin\Debug\XsiO.pdb
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\bin\Debug\XsiO.xml
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\obj\x86\Debug\XsiO.Form1.resources
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\obj\x86\Debug\XsiO.Form2.resources
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\obj\x86\Debug\XsiO.Resources.resources
+C:\Users\Duduman\Desktop\Visual 2010\Visual Basic\XsiO\XsiO\obj\x86\Debug\XsiO.vbproj.GenerateResource.Cache
+C:\Users\Duduman\Desktop\Visual 2010\Proiecte\XsiO\XsiO\obj\x86\Debug\XsiO.exe
+C:\Users\Duduman\Desktop\Visual 2010\Proiecte\XsiO\XsiO\obj\x86\Debug\XsiO.xml
+C:\Users\Duduman\Desktop\Visual 2010\Proiecte\XsiO\XsiO\obj\x86\Debug\XsiO.pdb
+F:\PAG\XsiO\XsiO\obj\x86\Debug\XsiO.exe
+F:\PAG\XsiO\XsiO\obj\x86\Debug\XsiO.xml
+F:\PAG\XsiO\XsiO\obj\x86\Debug\XsiO.pdb
+F:\PAG\XsiO\XsiO\bin\Debug\XsiO.exe
+F:\PAG\XsiO\XsiO\bin\Debug\XsiO.pdb
+F:\PAG\XsiO\XsiO\bin\Debug\XsiO.xml
+F:\PAG\XsiO\XsiO\obj\x86\Debug\XsiO.Form1.resources
+F:\PAG\XsiO\XsiO\obj\x86\Debug\XsiO.Form2.resources
+F:\PAG\XsiO\XsiO\obj\x86\Debug\XsiO.Resources.resources
+F:\PAG\XsiO\XsiO\obj\x86\Debug\XsiO.vbproj.GenerateResource.Cache
+C:\Users\Legend\Desktop\XsiO\XsiO\obj\x86\Debug\XsiO.exe
+C:\Users\Legend\Desktop\XsiO\XsiO\obj\x86\Debug\XsiO.xml
+C:\Users\Legend\Desktop\XsiO\XsiO\obj\x86\Debug\XsiO.pdb
